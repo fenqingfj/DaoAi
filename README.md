@@ -27,6 +27,7 @@ MIT License (for non-commercial research and verification purposes only)
 
 ### Contact
 For academic verification, collaboration or questions: [your anonymous contact method, e.g., temporary email or issue tracker]
+61918534@qq.com
 
 ---
 
@@ -56,4 +57,4 @@ V3 L2 短期验证（100 周期 × 5 次运行）已完成。
 MIT 许可（仅限非商业研究与验证用途）
 
 ### 联系方式
-学术验证、合作或疑问请通过 Issues 或 [您的匿名联系方式，例如临时邮箱] 联系。
+学术验证、合作或疑问请通过 Issues 或 [61918534@qq.com] 联系。
